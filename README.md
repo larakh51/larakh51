@@ -92,7 +92,7 @@ Full-stack web application built using:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lara_Khoury-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lara_Khoury-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/lara-khoury-a70181420/)
 
 </div>
 
