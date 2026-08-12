@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 # 👩‍💻 Lara Khoury
 
 ### Software Engineering Student | Full-Stack Developer
