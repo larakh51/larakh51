@@ -137,20 +137,15 @@ An interactive contact-management web application.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=larakh51&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=larakh51&theme=default" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakh51&layout=compact&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larakh51&theme=default" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=larakh51&hide_border=true" />
 
 </div>
-
 ---
 
 <div align="center">
