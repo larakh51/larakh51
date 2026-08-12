@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Sc. **Software Engineering student at the Technion**
+* 🎓  **Software Engineering student at the Technion**
 * 💻 Interested in **Full-Stack Software Development**
 * ⚛️ Building frontend applications with **React and JavaScript**
 * 🟢 Developing backend applications using **Node.js and Express.js**
