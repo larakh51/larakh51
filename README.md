@@ -30,13 +30,7 @@ Currently looking for internship opportunities as a:
 
 ---
 
-## 🎓 Education & Certifications
 
-### B.Sc. Software Engineering
-
-**Technion**
-
-Currently pursuing a degree in Software Engineering with a focus on software development, programming, databases, and full-stack technologies.
 
 ### 🏅 Certifications
 
