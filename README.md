@@ -1,5 +1,8 @@
 <div align="center">
+  <img src="banner.png" width="100%" alt="Lara Khoury Banner">
+</p>
 
+<div align="center">
 # 👩‍💻 Lara Khoury
 
 ### Software Engineering Student | Full-Stack Developer
